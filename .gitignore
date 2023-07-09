@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .prettierrc.json file
+# .prettierrc.json
+
+# Ignore .eslintrc.json file
+# .eslintrc.json
+
+# Ignore config.env file
+# config.env
